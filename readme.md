@@ -1,3 +1,7 @@
+### Tuck
+Tuck is a symptom logging app that allows users to keep track of symptoms as they experience them. The app will allow users to create a personalized log 
+
+
 ### New User
 * I want to sign up for a new account *High*
 * I want to see an explanation of the tracker *Med*
